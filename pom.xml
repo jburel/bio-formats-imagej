@@ -161,7 +161,7 @@
   </dependencies>
 
   <properties>
-    <bioformats.version>5.8.2</bioformats.version>
+    <bioformats.version>5.10.0-SNAPSHOT</bioformats.version>
     <imagej1.version>1.52a</imagej1.version>
     <jgoodies-forms.version>1.7.2</jgoodies-forms.version>
     <logback.version>1.1.1</logback.version>
